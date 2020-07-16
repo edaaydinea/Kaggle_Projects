@@ -1,2 +1,2 @@
-# Kaggle_Projects
+# Kaggle Projects
 This repository includes the projects I dealt with on the Kaggle platform. 
